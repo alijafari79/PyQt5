@@ -1,3 +1,8 @@
+##########################
+# @All rights reserved   #
+# Written by: Ali Jafari #
+##########################
+
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import QFont , QPixmap , QIcon
 from PyQt5.QtCore import QTimer
